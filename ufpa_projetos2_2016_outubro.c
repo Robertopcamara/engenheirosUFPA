@@ -61,5 +61,6 @@ int main() {
 
 	puts("201606840035 - Moisés Lobato Queiroz - http://lattes.cnpq.br/1059234636615212");
 	puts("Meu mantra: Nenhum sucesso na vida compensa o fracasso no lar.\n");     
-
+	puts("201607040010 - Roberto Peixoto Câmara -http://lattes.cnpq.br/0272304454387539");
+	puts("Meu mantra: O mundo não é um mar de rosas; é um lugar sujo, um lugar cruel, que não quer saber o quanto você é durão. Vai botar você de joelhos e você vai ficar de joelhos para sempre se você deixar. Você, eu, ninguém vai bater tão forte como a vida, mas não se trata de bater forte. Se trata de quanto você aguenta apanhar e seguir em frente, o quanto você é capaz de aguentar e continuar tentando. É assim que se consegue vencer.(Rocky 6)\n");
 }
